@@ -1,0 +1,25 @@
+Em julho de 2002 segundo Leblanc (2005) foi criada a tecnologia ADSL2, que logo foi aprovada pela ITU-T como G.992.3 e G.992.4, essa variante da 
+tecnologia de ADSL possui taxas de dowstream de até 24 Mbps e upstream de 1 Mbps, possui uma melhor modulação que o ADSL normal e possui um 
+reordenador de tonalidades para dissipar os sinais de interferência causados pelas ondas de rádio AM para ter um melhor ganho devido a nova ]
+modulação utilizada.
+
+O primeiro ganho é a eficiência. O ADSL tradicional gasta 32Kbps de banda enquanto o ADSL2 gasta apenas 4Kbps para sinalização, deixando mais 
+banda para a transferência efetiva de dados. Através de novos métodos de codificação, o ADSL2+ chega a até 24Mbps de banda (contra 8Mbps do ADSL 
+normal) de download e 1 Mbps de upload (o mesmo do ADSL normal). O grupo de desenvolvedores do ADSL2+ considerou que, para o perfil de tráfego 
+típico dos usuários ADSL, a banda de 1Mpbs de upload era suficiente, assim todo o ganho de banda foi passado para e velocidade de download. 
+Como o ADSL2/2+ possui mais banda, o efeito positivo é que, mantendo a mesma velocidade, o ADSL possui um alcance maior. Assim, um operador de 
+banda larga que forneça conexões de 4 Mbps, pode chegar a até 3,5 Km de distância até seus usuários usando ADSL e 4Km em ADSL2/2+.
+
+Outro recurso importante dos modems ADSL2/2+ são os recursos de auto-diagnóstico: eles podem medir as características de ruído, margem de ganho 
+(SNR) e atenuação nos dois lados da linha. Além disso o ADSL2/2+ monitora esses parâmetros continuamente e geram alarmes quando a qualidade da 
+linha varia para patamares muitos próximos dos limites.
+
+É comum que, com o tempo, as condições de ruído e atenuação de uma linha mudem. Isso pode ocorrer lentamente por fatores como umidade, 
+interferências eletromagnéticas, etc. Além disso fatores externos (ex.: entrada de água de chuva em alguma caixa de passagem) podem fazer esses 
+fatores mudarem drasticamente (dias secos x dias chuvosos). Com os recursos de monitoramento e alarme é possível ao operador de banda larga tomar 
+atitudes corretivas e preventivas.
+
+Economiza energia pois o modem para esta tecnologia foi projetado para funcionar somente quando o computador estiver em uso, ou seja, quando o 
+computador entra em stand by o modem também entra (Obs: O consumo eletrico(kWh) de uma modem possui pouco valor representativo).
+
+Atualmente somente a Telefônica, GVT, Brasil Telecom, Oi, CTBC, Trinnphone, Teletalk, Speedbol ofertam banda-larga com a tecnologia ADSL2+.
