@@ -1,0 +1,10 @@
+P:Como a ethernet assegura a distinção dos endereços?
+R:A ethernet utiliza para cada ponto uma chave de 48 bits chamada de MAC
+
+P:Como a ethernet transmite os dados?
+R:Ela implemento o protocolo CSMA/CD, onde os computadores estão autorizados a transmitir sob a mesma linha, a qualquer momento e sem prioridade.
+Quando uma maquina quer transmitir, ela verifica se não há transmissão na linha e então transmite.
+
+P:Quais os contras que podem aparecer na trasmição dos dados?
+R:Quando 2 computadores transmitirem ao mesmo tempo, os 2 pacotes se perderão. Os pacotes devem ter tamanho máximo, existe um tempo de espera entre
+os computadores que tranmetirem ao mesmo tempo e aleatório e varia de acordo com a frequência das colições
